@@ -101,6 +101,7 @@ PRODUCT_PACKAGES += \
     gpecheck.sh \
     gpe-fstab.qcom \
     init.qcom.rc \
+    init.recovery.qcom.rc \
     init.target.rc \
     ueventd.qcom.rc
 
